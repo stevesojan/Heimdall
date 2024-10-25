@@ -23,7 +23,7 @@ from sklearn.preprocessing import MinMaxScaler
 
 
 
-api_key = 'AD9C9HJUNS64N2H6'
+api_key = '<your alphavantage api key>'
 ticker = 'AAL'
 
 url_string = f'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&outputsize=full&symbol={ticker}&apikey={api_key}'
