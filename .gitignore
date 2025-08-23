@@ -1,3 +1,4 @@
+.idea/
 _avast_/
 Data/
 ETFs/
@@ -5,4 +6,4 @@ Stocks/
 rev ipsp.py
 rough work.py
 stockmkt_AAL.csv
-archive.zip
+candlestick_images_1/
