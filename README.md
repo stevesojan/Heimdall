@@ -39,7 +39,7 @@ The system combines:
 
 Example chart with **pattern annotation** and **trendline**:  
 
-![Example Pattern](CDL3INSIDE_bearish_205.png)  
+![Example Pattern](candlestick_images/CDL3INSIDE_bearish_205.png)  
 
 - The black rectangle marks the detected candlestick pattern.  
 - The dashed blue line indicates the price trend for the following 5 candles.  
