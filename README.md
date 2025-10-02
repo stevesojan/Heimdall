@@ -47,6 +47,11 @@ Example chart with **pattern annotation** and **trendline**:
 - The dashed blue line indicates the price trend for the following 5 candles.  
 - File is saved with the **pattern label in the name** for dataset preparation.  
 
+Inference:
+
+![Detected Candlestick](screenshot_02102025_101323.jpg)  
+
+
 ---
 
 ## 🔑 Current Focus  
