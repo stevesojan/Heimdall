@@ -31,7 +31,9 @@ The system combines:
 - Highlights detected pattern candles with bounding boxes.  
 - Draws a **trendline for the next 5 candles** after the detected pattern.  
 - Saves charts as `.png` images, with **filenames named after the detected pattern** (e.g., `CDL3INSIDE_bearish_205.png`).  
-- Exports `image_labels.csv` mapping filenames to pattern labels for use in supervised learning.  
+- Exports `image_labels.csv` mapping filenames to pattern labels for use in supervised learning.
+
+![Predicted Output](readme_images/heimdall_detected_candle.jpg)
 
 ---
 
