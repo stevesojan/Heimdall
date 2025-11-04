@@ -10,8 +10,7 @@ def main():
     df['Date'] = pd.to_datetime(df['Date'])
 
     # Ensure ascending order by Date
-    if df['Date'].iloc[0] > df['Date'].iloc[1]:
-        df.sort_values('Date', inplace=True)
+    df.sort_values('Date', inplace=True)
     df.set_index('Date', inplace=True)
 
     # === Create directory to save images ===
